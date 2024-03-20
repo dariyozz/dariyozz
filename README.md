@@ -9,7 +9,7 @@ i try 😊
 * 🌍  I'm based in Skopje - Macedonia
 * 🖥️  See my portfolio at [My website](http://dariyozz.github.io/JDarioWebsite/)
 * ✉️  You can contact me at [dariojakovleski10@gmail.com](mailto:dariojakovleski10@gmail.com)
-* 🧠  I'm learning JavaScript, C++, C, Java
+* 🧠  I'm learning JavaScript, C++, C, C#, Java, Python 
 * 🤝  I'm open to collaborating on building websites
 * ⚡  Gym bro
 
