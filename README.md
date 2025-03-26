@@ -11,7 +11,7 @@ i try 😊
 * ✉️  You can contact me at [dariojakovleski10@gmail.com](mailto:dariojakovleski10@gmail.com)
 * 🧠  I'm learning JavaScript, C++, C, C#, Java, Python, React, NextJS and much more :)
 * 🤝  I'm open to collaborating on building websites
-* ⚡  Gym bro
+
 
 ### Skills
 
