@@ -7,7 +7,7 @@ Web Developer
 i try 😊
 
 * 🌍  I'm based in Skopje - Macedonia
-* 🖥️  See my portfolio at [My website]([https://v0-modern-portfolio-website-dariyozzs-projects.vercel.app/])
+* 🖥️  See my portfolio at [My website](https://v0-modern-portfolio-website-dariyozzs-projects.vercel.app/)
 * ✉️  You can contact me at [dariojakovleski10@gmail.com](mailto:dariojakovleski10@gmail.com)
 * 🧠  I'm learning JavaScript, C++, C, C#, Java, Python, React, NextJS and much more :)
 * 🤝  I'm open to collaborating on building websites
